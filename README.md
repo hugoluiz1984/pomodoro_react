@@ -11,7 +11,10 @@ npm install
 ```
 
 Para executar :
+```
 npm run dev 
+```
+
 
 ## 🛠️ Construído com
 
